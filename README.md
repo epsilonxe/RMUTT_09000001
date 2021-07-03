@@ -13,8 +13,8 @@
 
 | Section | Invitation Code |Link | 
 |---------|------|-----------------|
-| Sec 04 | `6e51uaz` | [Join Classroom](https://teams.microsoft.com/l/team/19%3aU92_C1e-qQkG-k96NxiMfuxQczP0N7KLDLyyV9qJ6f01%40thread.tacv2/conversations?groupId=48ef0846-a686-45d4-a1cd-e5c5f3ea9700&tenantId=0ace20bb-9275-4172-b6f2-52b66dba0f4d)| 
-| Sec 16 | `bx8340h` | [Join Classroom](https://teams.microsoft.com/l/team/19%3a0zmLrBQx2IH89f_jybxHeOizBNZQxq9OAFFKf3NOSkw1%40thread.tacv2/conversations?groupId=a4f37af8-b8a9-4f5d-810d-2b8f4de873cc&tenantId=0ace20bb-9275-4172-b6f2-52b66dba0f4d)| 
+| Sec 40 | `3u375gh` | [Join Classroom](https://teams.microsoft.com/l/team/19%3afAjzkKnL6llItZQa_JYN7UmZJyaGevbyLNFq1S1Sh841%40thread.tacv2/conversations?groupId=96d66d72-915d-4153-ac49-a88a2825c342&tenantId=0ace20bb-9275-4172-b6f2-52b66dba0f4d)| 
+| Sec 42 | `yqyuf6h` | [Join Classroom](https://teams.microsoft.com/l/team/19%3a44VRyddrp4VgbhmXdKNhGqLFev7evzGkHnMOWZ-iJ3s1%40thread.tacv2/conversations?groupId=fbd30072-cd45-4ca0-8893-fa3d75550491&tenantId=0ace20bb-9275-4172-b6f2-52b66dba0f4d)| 
 
 ในกรณีที่นักศึกษาใช้รหัสการเข้าร่วม นักศึกษาสามารถเข้าใช้ห้องเรียนออนไลน์ได้ทันที แต่ถ้าใช้ลิงค์นักศึกษาต้องรอผู้สอนอนุมัติการเข้าร่วมอีกครั้ง 
 ภายในวันที่ 5 กรกฎาคม 2564 เวลา 09.00
@@ -23,8 +23,8 @@
 
 | Section | วัน-เวลา | หมายเหตุ | 
 |---------|--------|---|
-|Sec 04 | วันอังคาร 13.00 - 16.00 | ทฤษฎี 2 ชั่วโมง/ปฏิบัติ 2 ชั่วโมง|
-|Sec 16 | วันจันทร์ 08.00 - 12.00 | ทฤษฎี 2 ชั่วโมง/ปฏิบัติ 2 ชั่วโมง|
+|Sec 40 | วันพุธ 08.00 - 12.00 | ทฤษฎี 2 ชั่วโมง/ปฏิบัติ 2 ชั่วโมง|
+|Sec 42 | วันพุธ 13.00 - 16.00 | ทฤษฎี 2 ชั่วโมง/ปฏิบัติ 2 ชั่วโมง|
 
 
 ## คำอธิบายรายวิชา
