@@ -41,6 +41,12 @@ Computing fundamentals, key applications such as Word Processor (Microsoft Word)
 
 ## หัวข้อการบรรยาย
 
+นักศึกษาสามารถรับฟังการบรรยาย สนทนา และซักถาม
+ผ่านระบบ Microsoft Teams ตามวันและเวลาของกลุ่มเรียนข้างต้น 
+ทั้งนี้นักศึกษาสามารถใช้ระบบ [e-Training](https://ic3.rmutt.ac.th)
+ในการทบทวนและเตรียมความพร้อมได้ตลอดเวลา
+โดยหัวข้อการบรรยายในรายวิชานี้ทั้งหมดประกอบไปด้วย:
+
 | หัวข้อ | เอกสารประกอบ |
 | -----|------------|
 | แนะนำรายวิชา และเรียนรู้การใช้เครื่องมือ/ระบบ |  |
@@ -51,6 +57,7 @@ Computing fundamentals, key applications such as Word Processor (Microsoft Word)
 | การสร้างสื่อดิจิทัล: Microsoft Word |  |
 | การสร้างสื่อดิจิทัล: Microsoft Excel |  |
 | การสร้างสื่อดิจิทัล: Microsoft PowerPoint |  |
+
 
 
 ## การวัดผลการเรียน
