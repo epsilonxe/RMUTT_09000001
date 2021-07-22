@@ -50,8 +50,8 @@ Computing fundamentals, key applications such as Word Processor (Microsoft Word)
 | หน่วยที่ | หัวข้อ | IC3  | เอกสารประกอบ |
 | ----- |-----|------|-------------|
 |  | แนะนำรายวิชา และเรียนรู้การใช้เครื่องมือ/ระบบ | - |  |
-| 1 | การทำงานของคอมพิวเตอร์  | Module 1 |  |
-| 2 | การเข้าถึงสื่อดิจิทัล | Module 1 |  |
+| 1 | การทำงานของคอมพิวเตอร์  | Module 1 | [Part 1](./materials/unit_1_1.pdf), [Part 2](./materials/unit_1_2.pdf)  |
+| 2 | การเข้าถึงสื่อดิจิทัล | Module 1 | [Part 1](./materials/unit_2_1.pdf) |
 | 3 | การสื่อสารออนไลน์ | Module 3 |  |
 | 4 |การรู้เท่าทันสื่อดิจิทัล และความปลอดภัยบนโลกดิจิทัล | Module 3 |  |
 | 5 |การสร้างสื่อดิจิทัล: Microsoft Word | Module 2 |  |
