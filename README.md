@@ -58,7 +58,9 @@ Computing fundamentals, key applications such as Word Processor (Microsoft Word)
 | 5 |การสร้างสื่อดิจิทัล: Microsoft Excel | Module 2 |  |
 | 5 |การสร้างสื่อดิจิทัล: Microsoft PowerPoint | Module 2 |  |
 
+## การสอบกลางภาค
 
+ติดตามกำหนดการจาก [ประกาศ](./exam_mid/)
 
 ## การวัดผลการเรียน
 คะแนนเต็ม 100 คะแนน โดยแบ่งออกเป็น

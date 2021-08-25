@@ -446,7 +446,7 @@ kbd {
 }
 
 header {
-    width: 270px;
+    width: 220px;
     float: left;
     position: fixed;
     -webkit-font-smoothing: subpixel-antialiased
@@ -514,7 +514,7 @@ strong {
 }
 
 section {
-    width: 500px;
+    width: 600px;
     float: right;
     padding-bottom: 50px
 }
@@ -528,6 +528,14 @@ hr {
     background: #e5e5e5;
     height: 1px;
     margin: 0 0 20px
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+ul {
+    margin: 10px 0 10px 0;
 }
 
 footer {
