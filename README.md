@@ -58,6 +58,12 @@ Computing fundamentals, key applications such as Word Processor (Microsoft Word)
 | 5 |การสร้างสื่อดิจิทัล: Microsoft Excel | Module 2 |  |
 | 5 |การสร้างสื่อดิจิทัล: Microsoft PowerPoint | Module 2 |  |
 
+## วีดีโอออนไลน์สำหรับทบทวนบทเรียน
+
+1. [IC3 Module 1: Computing Fundamental](https://www.youtube.com/playlist?list=PL6s54_j3o0zHpUyLru6N8VFgy3Xj4lsul) (กลางภาค: ครอบคุลมเนื้อหาในส่วน [หน่วยที่ 1](./materials/unit_1.pdf) และ [หน่วยที่ 2](./materials/unit_2.pdf) แนะนำให้ศึกษาจากเอกสารประกอบการบรรยายด้วย)
+2. [IC3 Module 3: Living Online](https://www.youtube.com/playlist?list=PL6s54_j3o0zE7t6zCMUNEpclvcUsRNFdI) (กลางภาค: ครอบคุลมเนื้อหาในส่วน [หน่วยที่ 2](./materials/unit_2.pdf), [หน่วยที่ 3](./materials/unit_3.pdf) และ [หน่วยที่ 4](./materials/unit_4.pdf) แนะนำให้ศึกษาจากเอกสารประกอบการบรรยายด้วย)
+3. [IC3 Module 2: Key Applications]() (ปลายภาค)
+
 ## การสอบวัดผล
 
 1. ติดตามจาก [ประกาศกำหนดการสอบย่อยครั้งที่ 1](./exam_mid/)
