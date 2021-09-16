@@ -58,6 +58,8 @@ Computing fundamentals, key applications such as Word Processor (Microsoft Word)
 | 5 |การสร้างสื่อดิจิทัล: Microsoft Excel | Module 2 |  |
 | 5 |การสร้างสื่อดิจิทัล: Microsoft PowerPoint | Module 2 |  |
 
+ทุกหัวข้อการสร้างสื่อดิจิทัลจะปฏิบัติการบนระบบคลาวด์ [Office 365](https://www.office.com) ซึ่งจำเป็นต้องมีการเชื่อมต่อกับเครือข่ายอินเตอร์เน็ตตลอดเวลาปฏิบัติการ
+
 ## วีดีโอออนไลน์สำหรับทบทวนบทเรียน
 
 1. [IC3 Module 1: Computing Fundamental](https://www.youtube.com/playlist?list=PL6s54_j3o0zHpUyLru6N8VFgy3Xj4lsul) (กลางภาค: ครอบคุลมเนื้อหาในส่วน [หน่วยที่ 1](./materials/unit_1.pdf) และ [หน่วยที่ 2](./materials/unit_2.pdf) แนะนำให้ศึกษาจากเอกสารประกอบการบรรยายด้วย)
