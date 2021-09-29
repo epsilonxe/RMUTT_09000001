@@ -55,7 +55,7 @@ Computing fundamentals, key applications such as Word Processor (Microsoft Word)
 | 3 | การสื่อสารออนไลน์ | Module 3 | [Download](./materials/unit_3.pdf) |
 | 4 |การรู้เท่าทันสื่อดิจิทัล และความปลอดภัยบนโลกดิจิทัล | Module 3 | [Download](./materials/unit_4.pdf) |
 | 5 |การสร้างสื่อดิจิทัล: Microsoft Word | Module 2 | [MS Word](./materials/word_365.pdf) และ [Workshops](./materials/word_365_lab.pdf) |
-| 5 |การสร้างสื่อดิจิทัล: Microsoft Excel | Module 2 |  |
+| 5 |การสร้างสื่อดิจิทัล: Microsoft Excel | Module 2 | [MS Excel](./materials/excel_365.pdf) และ [Workshops](./materials/excel_365_lab.pdf) |
 | 5 |การสร้างสื่อดิจิทัล: Microsoft PowerPoint | Module 2 |  |
 
 ทุกหัวข้อการสร้างสื่อดิจิทัลจะปฏิบัติการบนระบบคลาวด์ [Office 365](https://www.office.com) ซึ่งจำเป็นต้องมีการเชื่อมต่อกับเครือข่ายอินเตอร์เน็ตตลอดเวลาปฏิบัติการ
